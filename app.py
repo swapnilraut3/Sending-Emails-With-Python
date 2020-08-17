@@ -1,3 +1,4 @@
+import os
 import yagmail
 
 if __name__ == "__main__":
