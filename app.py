@@ -1,6 +1,6 @@
 import os
 import yagmail
-from pipenv.vendor.dotenv import load_dotenv, find_dotenv
+from dotenv import load_dotenv
 
 if __name__ == "__main__":
     load_dotenv()
