@@ -7,6 +7,8 @@ verify_ssl = true
 
 [packages]
 sendgrid = "*"
+python-dotenv = "*"
+yagmail = "*"
 
 [requires]
 python_version = "3.6"
